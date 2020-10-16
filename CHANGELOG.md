@@ -1,5 +1,20 @@
 # Semantic Release Automated Changelog
 
+## [2.6.5](https://github.com/AlaskaAirlines/WC-Generator/compare/v2.6.4...v2.6.5) (2020-10-02)
+
+
+### Bug Fixes
+
+* remove auto email package config feature ([f814939](https://github.com/AlaskaAirlines/WC-Generator/commit/f8149395f8fb3f4c2fc58aa7fe20ce7ec5bec3bb))
+
+## [2.6.4](https://github.com/AlaskaAirlines/WC-Generator/compare/v2.6.3...v2.6.4) (2020-10-01)
+
+
+### Bug Fixes
+
+* remove Github dependency ([8c2f574](https://github.com/AlaskaAirlines/WC-Generator/commit/8c2f574c2c946b40055a18c9eba227f30a2194e9))
+* update browserlist config ([7bbe417](https://github.com/AlaskaAirlines/WC-Generator/commit/7bbe41720ef4a045385ea66418287b24ba4fe0a5))
+
 ## [2.6.3](https://github.com/AlaskaAirlines/WC-Generator/compare/v2.6.2...v2.6.3) (2020-09-24)
 
 
